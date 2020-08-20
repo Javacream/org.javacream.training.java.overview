@@ -13,6 +13,11 @@ public class PeopleManager {
 	}
 	
 	Person findByLastname(String lastname) {
+		if (lastname != null) {
 		return people.get(lastname);
+		}
+		else {
+			throw new IllegalArgumentException();
+		}
 	}
 }
