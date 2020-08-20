@@ -7,7 +7,9 @@
 * Beispiele
   * https://github.com/Javacream/org.javacream.training.java_overview
     *  Branch commerzbank_20.8.2020
-
+* Digitales Flipchart
+  * https://docs.google.com/presentation/d/12pmiICO-ANIt_v1IhqpPHsobB_tZzBu4QEyGUZ6pnoA/edit?usp=sharing
+  
 * Seminarzeiten
   * 8 Unterrichtseinheiten mit jeweils 90 Minuten
   * Mittagspause 45’ (12:15-13:00)
