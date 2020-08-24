@@ -1,14 +1,20 @@
 package org.javacream.training.java.overview;
 
+import java.util.HashMap;
+
 public class PeopleManager {
 
+	private Integer counter = 0;
+	private HashMap<Integer, Person> people = new HashMap<Integer, Person>();
 	Integer create(String lastname, String firstname) {
-		return null;
+		Person person = new Person(lastname, firstname, counter++);
+		people.put(counter, person);
+		return counter;
 		
 	}
 	
 	Person findById(Integer id) {
-		return null;
+		return people.get(id);
 		
 	}
 }
