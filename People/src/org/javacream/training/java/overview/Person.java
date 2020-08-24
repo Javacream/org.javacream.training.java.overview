@@ -78,6 +78,9 @@ public class Person {
 		return height;
 	}
 	public void setHeight(Integer height) {
+		if (height < 50 || height > 280) {
+			throw new IllegalArgumentException();
+		}
 		this.height = height;
 	}
 	public Address getAddress() {
