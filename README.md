@@ -5,7 +5,7 @@
 * Referent: Rainer Sawitzki, eMail: training@rainer-sawitzki.de
 
 * Beispiele
-  * https://github.com/Javacream/org.javacream.training.java_overview
+  * https://github.com/Javacream/org.javacream.training.java.overview
     *  Branch commerzbank_24.8.2020
 * Digitales Flipchart
   * https://docs.google.com/presentation/d/1VADc3qgYN0bvwhsqvLr1-O1BBMEqBDgKHaWe3k7MgLU/edit?usp=sharing
